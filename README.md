@@ -1,2 +1,2 @@
-# info2180-lab1
-repository created for INFO2180 Lab 1
+# INFO2180 Lab 1
+this is Lab 1 for Shane-Michael Thompson
